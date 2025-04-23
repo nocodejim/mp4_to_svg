@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Exported files (often large)
+export/*
+!export/.gitkeep
+
+# MP4 files (often large)
+mp4/*
+!mp4/.gitkeep
+
+# Log files
+*.log
+
+# Dependency tracking file
+.installed_packages
